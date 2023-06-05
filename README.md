@@ -62,7 +62,7 @@ Please make sure to update tests as appropriate.
 If you want to contact me you can reach me at [LinkedIn](https://linkedin.com/in/neo-titebe-120536254) or [Instagram](https://instagram.com/9teen_99).
 
 <h2 align="left">Languages and Tools Used:</h2>
-...
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
 
 ## License
@@ -70,4 +70,4 @@ If you want to contact me you can reach me at [LinkedIn](https://linkedin.com/in
 This project is **free to use** and does not contain any license.
 
 
-### Stay tuned, more features are coming
+#### Stay tuned, more features are coming
